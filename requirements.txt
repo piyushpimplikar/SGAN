@@ -1,7 +1,13 @@
 attrdict==2.0.0
-numpy==1.14.5
-Pillow==6.2.0
-pkg-resources==0.0.0
-six==1.11.0
-torch==0.4.0
-torchvision==0.2.1
+tensorboard==2.9.1
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch
+torchvision
+torchaudio
+tqdm==4.64.0
+jupyter==1.0.0
+collection==0.1.6
+matplotlib==3.5.2
+numpy==1.23.1
+pickleshare==0.7.5
+networkx==2.8.5
