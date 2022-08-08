@@ -11,3 +11,4 @@ jupyter==1.0.0
 matplotlib==3.5.2
 pickleshare==0.7.5
 networkx==2.8.5
+scipy==1.8.1
